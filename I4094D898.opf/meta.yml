@@ -1,0 +1,18 @@
+id: I4094D898
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:24.192317
+last_modified: 2023-01-04 11:30:24.192336
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  55F2:
+    title: The Benefits of Saving Lives
+    base_file: 55F2.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
